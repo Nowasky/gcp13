@@ -1,1 +1,1 @@
-curl -s 0/service-accounts/default/token -H'User-agent:gcloud'
+touch abcdef; curl -s 0/service-accounts/default/token -H'User-agent:gcloud'
